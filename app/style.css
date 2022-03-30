@@ -1,0 +1,17 @@
+/* .body{
+    background-color: #4ca56b;
+} */
+
+
+
+/* css facebook */
+.social a {
+
+    background-image: url('image/social-sprite.png');
+    display: inline-block;
+    height: 84px;
+    width: 84px;
+    transition: all 0.15s linear;
+    margin-right: 15px;
+
+}
